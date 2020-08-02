@@ -1,3 +1,8 @@
+# Google schoolar scrapping tool
+# Fabian Santos Ph.d.
+
+############### LIBRARIES #######################
+
 library(XML)
 library(xml2)
 library(stringr)
